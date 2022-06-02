@@ -46,7 +46,7 @@ Test data | 	AUROC score  |	Loss  |	Accuracy  |	Sensitivity
   
 Confusion Matrix |	AUROC
 ---|---|
-![image](https://user-images.githubusercontent.com/97151697/171569562-1c4b9ca0-1d5e-41cb-b2f4-97f95cc6d8a6.png) | ![image](https://user-images.githubusercontent.com/97151697/171569589-e71c8c22-c252-4d33-82cf-6dd72e512b60.png)
+![image](https://user-images.githubusercontent.com/97151697/171575755-c15ed397-f9d8-41b1-801a-e9441d33bb59.png) | ![image](https://user-images.githubusercontent.com/97151697/171569589-e71c8c22-c252-4d33-82cf-6dd72e512b60.png)
 
 
 ### (2) [simple Model and GradCam](https://github.com/kyulee-jeon/PROPHECY-STEMI/blob/main/Code/simple%20Model%20and%20Visualization.ipynb)
